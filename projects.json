@@ -2,17 +2,24 @@
     "projects": [
         {
             "id": 1,
-            "title": "QuantumLeap Analytics",
+            "title": "Örnek Proje",
             "content" : "İçerik",
             "description": "An advanced data analytics platform designed to provide real-time insights for enterprise clients. This project involved creating a scalable front-end architecture, intuitive data visualizations, and a highly performant user interface to handle large datasets.",
-            "image": "https://img.yeniankara.com.tr/rcman/Cw1280h720q95gc/storage/files/images/2025/03/16/1-iphx.jpg"
+            "image": "https://img.freepik.com/free-vector/gradient-particle-wave-background_23-2150521671.jpg"
         },
         {
             "id": 2,
-            "title": "E-Commerce Platform",
+            "title": "Örnek Proje",
             "content" : "İçerik",
             "description": "A full-featured online store built with React and Node.js, including payment gateway integration.",
-            "image": "https://b6s54eznn8xq.merlincdn.net/Uploads/People/89b0c1e9d8f64aaca091a8227ff46097.jpg"
+            "image": "https://img.freepik.com/free-vector/gradient-particle-wave-background_23-2150521671.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Örnek Proje",
+            "content" : "İçerik",
+            "description": "A full-featured online store built with React and Node.js, including payment gateway integration.",
+            "image": "https://img.freepik.com/free-vector/gradient-particle-wave-background_23-2150521671.jpg"
         }
     ],
     "slugs" : [
@@ -28,4 +35,5 @@
         }
     ]
 }
+
 
