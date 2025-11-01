@@ -25,15 +25,16 @@
     "slugs" : [
         {
             "slug": "arda",
-            "title" : "Merhaba Arda!",
-            "content": "Bu site sana özel!"
+            "title" : "Merhaba!",
+            "content": "Merhaba ben Arda! Burası bana ait istersen kendi ismini arat."
         },
         {
-            "slug": "ozel",
-            "title" : "Özel İçerik",
-            "content": "Bu içerik sadece sana özel!"
+            "slug": "alperen",
+            "title" : "Merhaba Alperen!",
+            "content": "S*k kırığı Alperen, burası sana özel!"
         }
     ]
 }
+
 
 
